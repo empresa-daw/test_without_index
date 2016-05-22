@@ -1,5 +1,5 @@
 Pruebas de Dop-tester
-|
+||
 ||
 ||
 ||
