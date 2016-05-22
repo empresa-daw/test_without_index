@@ -1,7 +1,6 @@
 Pruebas de Dop-tester
 |||
-||
-||
+|||
 ||
 |||
 ||
